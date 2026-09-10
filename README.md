@@ -11,7 +11,7 @@
   <a href="https://www.ory.com/jobs/">Jobs</a>
 </h4>
 
-Ory Hydra is a hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect
+[Ory Hydra](https://www.ory.com/hydra) is a hardened, OpenID Certified OAuth 2.0 Server and OpenID Connect
 Provider optimized for low-latency, high throughput, and low resource
 consumption. It connects to your existing identity provider through a login and
 consent app, giving you absolute control over the user interface and experience.
@@ -66,7 +66,7 @@ about its architecture, feature set, and how it compares to other systems.
 
 Ory Hydra is designed to:
 
-- Be a standalone OAuth 2.0 and OpenID Connect server without user management
+- Be a standalone [OAuth 2.0 and OpenID Connect server](https://www.ory.com/hydra) without user management
 - Connect to any existing identity provider through a login and consent app
 - Give you absolute control over the user interface and experience flows
 - Work with any authentication endpoint:
@@ -133,7 +133,7 @@ You can run Ory Hydra in two main ways:
 
 ### Use Ory Hydra on the Ory Network
 
-The [Ory Network](https://www.ory.com/cloud) is the fastest way to use Ory
+The [Ory Network](https://www.ory.com/network) is the fastest way to use Ory
 services in production. **Ory OAuth2 & OpenID Connect** is powered by the open
 source Ory Hydra server and is API compatible.
 
