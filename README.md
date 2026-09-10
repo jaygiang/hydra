@@ -7,7 +7,7 @@
   <a href="https://github.com/ory/hydra/discussions">Discussions</a> ·
   <a href="https://www.ory.com/l/sign-up-newsletter">Newsletter</a> ·
   <a href="https://www.ory.com/docs/">Docs</a> ·
-  <a href="https://console.ory.sh/">Try Ory Network</a> ·
+  <a href="https://console.ory.com/">Try Ory Network</a> ·
   <a href="https://www.ory.com/jobs/">Jobs</a>
 </h4>
 
@@ -154,7 +154,7 @@ The Ory Network provides:
 - Fair, usage based [pricing](https://www.ory.com/pricing)
 
 Sign up for a
-[free developer account](https://console.ory.sh/registration?utm_source=github&utm_medium=banner&utm_campaign=hydra-readme)
+[free developer account](https://console.ory.com/registration?utm_source=github&utm_medium=banner&utm_campaign=hydra-readme)
 to get started.
 
 ### Self-host Ory Hydra
